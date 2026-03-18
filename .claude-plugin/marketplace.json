@@ -1,0 +1,28 @@
+{
+  "name": "agent-plugins",
+  "owner": {
+    "name": "namos2502"
+  },
+  "metadata": {
+    "description": "A personal marketplace of Claude Code plugins",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "cofluent",
+      "description": "Teaches Claude the GitHub Copilot CLI programmatic reference so it can invoke copilot -p correctly every time",
+      "version": "1.0.0",
+      "author": {
+        "name": "namos2502"
+      },
+      "homepage": "https://github.com/namos2502/CoFluent",
+      "repository": "https://github.com/namos2502/CoFluent",
+      "license": "MIT",
+      "keywords": ["copilot", "github-copilot", "cli", "skills", "reference"],
+      "source": {
+        "source": "github",
+        "repo": "namos2502/CoFluent"
+      }
+    }
+  ]
+}
