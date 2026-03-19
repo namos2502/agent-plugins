@@ -16,12 +16,12 @@ You only need to do this once. After that, you can install any plugin from this 
 
 | Plugin | Description | Install |
 |--------|-------------|---------|
-| [CoFluent](https://github.com/namos2502/CoFluent) | Teaches Claude the GitHub Copilot CLI programmatic reference so it can invoke `copilot -p` correctly | `/plugin install cofluent@agent-plugins` |
+| [xFlow](https://github.com/namos2502/xFlow) | Cross-agent workflow plugin — gives your agent the full programmatic reference for every CLI tool you use (Copilot, Claude CLI, and more). One plugin. Every CLI. Stay in flow. | `/plugin install xflow@agent-plugins` |
 
 ## Install a plugin
 
 ```
-/plugin install cofluent@agent-plugins
+/plugin install xflow@agent-plugins
 ```
 
 Then run `/reload-plugins` to activate.
