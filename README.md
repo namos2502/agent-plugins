@@ -1,6 +1,6 @@
 # agent-plugins
 
-A personal Claude Code plugin marketplace by [@namos2502](https://github.com/namos2502).
+AI plugin marketplace by [@namos2502](https://github.com/namos2502).
 
 ## Add this marketplace
 
